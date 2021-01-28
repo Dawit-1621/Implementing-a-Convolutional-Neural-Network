@@ -6,6 +6,8 @@
 * pandas
 * matplotlib
 * sklearn
+* tensorflow
+* keras
 
 ### Instructions:
 
